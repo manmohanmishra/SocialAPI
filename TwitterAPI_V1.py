@@ -1,6 +1,5 @@
 import tweepy
-from time import sleep
-from datetime import datetime
+
 #Authentication
 consumer_key = 'jjJkmq1vwdBYbRrVRSdtpA'
 consumer_secret = 'Enter Here'
